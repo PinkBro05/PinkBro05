@@ -19,7 +19,7 @@ class Training():
             self.knowledges.append(new_knowledge)
 ```
 # 💫 About Me:
-My name is Pink, a second-year student studying Data Science at Swinburne University of Technology. I have a passion for Data Science and AI.<br>I have learned Python since grade 11 by myself and I was selected for the school's programming competition team.<br>I have passion for data science and AI.
+My name is Pink, a second-year student studying Data Science at Swinburne University of Technology. I have a passion for Data Science and AI.>I have learned Python since grade 11 by myself and I was selected for the school's programming competition team.I have passion for data science and AI.
 ## Current Goal: Study PhD - Research about AI
 
 ## 🌐 Socials:
