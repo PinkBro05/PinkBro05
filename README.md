@@ -23,7 +23,7 @@ My name is Pink, a second-year student studying Data Science at Swinburne Univer
 ## Current Goal: Study PhD - Research about AI
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pinkbro__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-anh-nguyen-367911304/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pinkbro__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hong-anh-nguyen-367911304/) 
 
 # 💻 Tech Stack:
 ### Language:
